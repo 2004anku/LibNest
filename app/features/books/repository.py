@@ -1,0 +1,2 @@
+"""Book persistence queries."""
+

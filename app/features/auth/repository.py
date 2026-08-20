@@ -1,0 +1,2 @@
+"""Authentication persistence queries."""
+

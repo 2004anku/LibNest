@@ -1,0 +1,2 @@
+"""College persistence queries."""
+

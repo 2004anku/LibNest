@@ -1,0 +1,2 @@
+"""Student membership schemas."""
+
